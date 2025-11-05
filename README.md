@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Toàn Diện</h1>
-<h3 align="center">A passionate Developer / Student from Vietnam</h3>
+<h3 align="center">IT Student at Hanoi University of Industry</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=NTDien35&label=Profile+Views&color=blue&style=flat-square" alt="NTDien35" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🎓 I'm currently studying **Information Technology** at **Hanoi University of Industry**  
-- 💻 I’m learning **C++ / Data Structures & Algorithms / Web / etc**  
-- 🚀 My goal: **Become a skilled full-stack dev / AI engineer / etc**  
-- ⚡ Fun fact: I like gaming, football, gym and exploring tech.
+- 🎓 Studying **Information Technology (English Program)** at **HAUI**
+- 💻 Currently learning **OOP with Java**
+- 🔥 Also working with **Python** & **C++**
+- ⚽ Outside of coding: football, gym, games
 
 ---
 
@@ -19,7 +19,7 @@
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,cs" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>
 
 #### Tools & Platforms
@@ -31,19 +31,17 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=NTDien35&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTDien35&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect with me
 <p>
-  <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.facebook.com/Dieenj"><img src="https://skillicons.dev/icons?i=facebook" /></a>
 </p>
 
 ---
 
-<p align="center">⭐️ If you like my profile, feel free to star a repo or follow me!</p>
+<p align="center">⭐ If you like my profile, feel free to follow or star my repositories!</p>
